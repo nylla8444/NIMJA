@@ -1,8 +1,4 @@
 import tkinter as tk
-from tkinter import messagebox
-import random
-import math
-from collections import defaultdict
 from nim_game import NimGame
 
 
